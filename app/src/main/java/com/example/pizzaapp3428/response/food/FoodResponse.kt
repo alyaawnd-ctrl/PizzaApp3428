@@ -1,4 +1,4 @@
-package com.example.pizzaapp3383.response.food
+package com.example.pizzaapp3428.response.food
 
 data class FoodResponse(
     val food_id : String,

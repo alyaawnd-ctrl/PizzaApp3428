@@ -1,4 +1,4 @@
-package com.example.pizzaapp3383
+package com.example.pizzaapp3428
 
 import android.os.Bundle
 import android.widget.TextView
@@ -8,7 +8,6 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentContainerView
-import org.w3c.dom.Text
 
 class HomeActivity : AppCompatActivity() {
 

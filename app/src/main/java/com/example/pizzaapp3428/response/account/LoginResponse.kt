@@ -1,4 +1,4 @@
-package com.example.pizzaapp3383.response.account
+package com.example.pizzaapp3428.response.account
 
 data class LoginResponse(
     val success: Boolean,
